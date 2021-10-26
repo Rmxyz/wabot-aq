@@ -1,5 +1,5 @@
 {
-  "name": "wabot-aq",
+  "name": "Bootxyz",
   "version": "2.5.1",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
@@ -22,16 +22,16 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/Nurutomo/wabot-aq",
+  "homepage": "https://github.com/Rmxyz/wabot-aq",
   "author": {
-    "name": "Nurutomo"
+    "name": "Rmxyz"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nurutomo/wabot-aq.git"
+    "url": "git+https://github.com/Rmxyz/wabot-aq.git"
   },
   "bugs": {
-    "url": "https://github.com/Nurutomo/wabot-aq/issues"
+    "url": "https://github.com/Rmxyz/wabot-aq/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
